@@ -11,7 +11,7 @@ touch setup.py
 touch app.py
 touch README.md
 touch research/trials.ipynb
-touch requrements.txt
+touch requiremets.txt
 
 echo "Directories and Files have created sucessfully"
 
